@@ -1,0 +1,127 @@
+
+<p>
+    Hi <<M_Loan_Pro>>
+</p>
+<p>
+    The loan for <strong><<M_37>></strong><strong> </strong><strong><<M_36>></strong><strong> </strong>has been suspended.  Based on the submitted information we were unable to render an underwriting decision on this loan.  A copy of the suspense letter outlining reasons why is attached to this email.  If you have any questions please contact underwriting support at 734-585-1500 ext. 4.  Thanks for your business!
+</p>
+<p>
+    Thanks for your business!
+</p>
+<table border="1" cellspacing="0"  style="border-top-color:gold; border-top-width:thick" >
+    <tbody>
+        <tr>
+             <td width="112" rowspan="5" style="background-color:  #365f91;"  >
+                <p>
+                    <strong>
+                        <img width="129" height="123" src="http://www.customcraftywoodworking.com/logo2.jpg"/>
+                    </strong>
+                </p>
+            </td>
+            <td width="112" style="background-color:  #365f91; "
+>
+                <p style="color:white">
+                    <strong>Loan #</strong>
+                </p>
+            </td>
+            <td width="319" >
+                <p>
+                    <strong><<Loan_Number_364>></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="112"  style="background-color: #365f91;" >
+                <p style="color:white">
+                    <strong>Address</strong>
+                </p>
+            </td>
+            <td width="319"  >
+                <p>
+                    <strong><<Subject_Property_Address_11>></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="112"style="background-color: #365f91;">
+                 <p style="color:white">
+                    <strong>Borrower</strong>
+                </p>
+            </td>
+            <td width="319" >
+                <p>
+                    <strong><<M_37>> <<M_36>></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="112"style="background-color: #365f91;">
+                <p style="color:white">
+                    <strong>Interest Rate</strong>
+                </p>
+            </td>
+            <td width="319">
+                <p>
+                    <strong><<Note_Rate_3>></strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="112"style="background-color: #365f91;">
+                <p style="color:white">
+                    <strong>Underwriter</strong>
+                </p>
+            </td>
+            <td width="319">
+                <p>
+                    <strong><<M_984>></strong>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+<p>
+
+</p>
+<p>
+
+</p>
+<table border="1" cellspacing="0" cellpadding="3" style="border-top-color:gold; border-top-width:thick">
+    <tbody>
+        <tr>
+            <td width="431" rowspan="1" style="background-color:  #365f91;">
+                <p style="color:white; padding: 3;">
+                    Underwriter Notes:
+                </p>
+            </td>
+            </tr>
+        <tr>
+            <td width="569" rowspan="1">
+                <p>
+                    <strong><<M_CX.UINOTES>></strong>
+                </p>
+            </td>
+
+        </tr>
+    
+       
+        
+ 
+        
+    </tbody>
+    </table>
+    <p>
+
+    </p>
+    <p>
+
+    </p>
+<p>
+
+</p>
+<p>
+
+</p>
+<p>
+    <a href="https://app.box.com/s/o5c3q0496szyeov3mowvugtq6233luf2">Please click here to review the latest version of Gold Star’s Underwriting Guidelines</a>
+</p>
